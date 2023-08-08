@@ -1,3 +1,3 @@
 [submodule "proprietary"]
-	path = proprietary
+	path = NX729J/proprietary
 	url = https://github.com/Lutitious/proprietary
